@@ -1,4 +1,4 @@
-# DR ROPES
+# subsetsum
 # Benjamin Carroll
 # 2/6/15
 
